@@ -14,4 +14,8 @@ of threads in the pool and there is a need to queue up tasks until there is a fr
 to execute the task. Thread pools provide improved performance when working with a very
 large number of tasks. Fixed thread pool executor creates a thread pool that reuses a
 fixed number of threads to execute any number of tasks, the number of threads to
-provide maximum efficiency changes from a device to anothe
+provide maximum efficiency changes from a device to another.
+
+Credits:
+Lara Abdelbaki
+Nour Hesham 
